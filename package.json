@@ -1,11 +1,8 @@
 {
-  "name": "no-kafka",
+  "name": "@heroku/no-kafka",
   "description": "Apache Kafka 0.9 client for Node.JS",
-  "homepage": "http://github.com/oleksiyk/kafka",
-  "author": {
-    "name": "Oleksiy Krivoshey",
-    "email": "oleksiyk@gmail.com"
-  },
+  "homepage": "http://github.com/heroku/no-kafka",
+  "author": "Jeff Dickey",
   "version": "2.4.1",
   "main": "./lib/index.js",
   "keywords": [
@@ -32,14 +29,14 @@
     "sinon-chai": "^2.8.0"
   },
   "bugs": {
-    "url": "https://github.com/oleksiyk/kafka/issues"
+    "url": "https://github.com/heroku/no-kafka/issues"
   },
   "scripts": {
     "test": "make"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oleksiyk/kafka.git"
+    "url": "https://github.com/heroku/no-kafka.git"
   },
   "readmeFilename": "README.md",
   "license": "MIT"
